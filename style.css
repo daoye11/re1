@@ -1,0 +1,215 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.bordered {
+    border: 2px solid black; /* 将边框宽度调整为 5 像素 */
+  padding: 20px; /* 可选的填充 */
+  }
+  /* styles.css */
+
+/* styles.css */
+.image-container {
+    overflow: hidden; /* 清除浮动元素溢出 */
+  }
+  .float-left {
+    float: left;
+    margin-right: 10px; /* 可选的右边距 */
+  }
+  .float-right {
+    float: right;
+    margin-left: 10px; /* 可选的左边距 */
+  }
+
+  
+.logo{
+    width: 100%;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.logo h1{
+
+    font-size: 36px;
+}
+.logo p{
+    font-size: 18px;
+    color: #666;
+}
+.logo img{
+    width: 1000px;
+    height: 700px;
+    margin-bottom: 30px;
+}
+
+  h2 {
+    text-align: left;
+  }
+.yuzi{
+    width: 100%;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-top: 1px solid #cccccc;
+    border-bottom: 1px solid #cccccc;
+}
+.yuzi h3{
+    text-align: left;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.yuzi p{
+    text-align: left;
+    font-size: 24px;
+    color: #666;
+    line-height: 1.5;
+}
+.dalu{
+    width: 100%;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    border-bottom: 1px solid #cccccc;
+}
+.dalu h4{
+    text-align: left;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.dalu p{
+    text-align: left;
+    font-size: 24px;
+    color: #666;
+    line-height: 1.5;
+}
+.lv{
+    width: 100%;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    border-bottom: 1px solid #cccccc;
+}
+.lv h5{
+    text-align: left;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.lv p{
+    text-align: left;
+    font-size: 24px;
+    color: #666;
+    line-height: 1.5;
+}
+.muye{
+    width: 100%;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    border-bottom: 1px solid #cccccc;
+}
+.muye h6{
+    text-align: left;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.muye p{
+    text-align: left;
+    font-size: 24px;
+    color: #666;
+    line-height: 1.5;
+}
+.zhao{
+    width: 100%;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    border-bottom: 1px solid #cccccc;
+}
+.zhao h7{
+    text-align: left;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.zhao p{
+    text-align: left;
+    font-size: 24px;
+    color: #666;
+    line-height: 1.5;
+}
+.music{
+    width: 100%;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    border-bottom: 1px solid #cccccc;
+}
+h8 {
+    text-align: left;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  .music h9{
+    text-align: left;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.music p{
+    text-align: left;
+    font-size: 24px;
+    color: #666;
+    line-height: 1.5;
+}
+.pingjia{
+    width: 100%;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    border-bottom: 1px solid #cccccc;
+}
+.pingjia h10{
+    text-align: left;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.pingjia p{
+    text-align: left;
+    font-size: 24px;
+    color: #666;
+    line-height: 1.5;
+}
+.beijing{
+    width: 100%;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    border-bottom: 1px solid #cccccc;
+}
+.beijing h11{
+    text-align: left;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.beijing p{
+    text-align: left;
+    font-size: 24px;
+    color: #666;
+    line-height: 1.5;
+}
+.video-player{
+    width: 50%;
+    text-align: center;
+
+    margin-top: 20px;
+}
+.bofang h12{
+    text-align: left;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
